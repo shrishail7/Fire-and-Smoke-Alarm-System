@@ -219,10 +219,10 @@ gas leakage in the home/ industries.
 * So, our system saves energy and provides security to the user.
 Hence, this system is scalable and flexible.
 
-## Reference -
-1. Arduino IDE -
-2. MIT App Inventor (web application) -
-3. Tinkercad -
-4. Project Hub -
+## Reference 
+1. Arduino IDE - https://www.arduino.cc/en/software
+2. MIT App Inventor (web application)  - https://appinventor.mit.edu/
+3. Tinkercad - https://www.tinkercad.com/
+4. Project Hub - https://projecthub.arduino.cc/
 
 
