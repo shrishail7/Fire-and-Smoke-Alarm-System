@@ -108,8 +108,7 @@ active learning.
 ![](/Images/Hardware%20Design.PNG)
 ## App Interface -
 ![](/Images/App%20Interface.PNG)
-## App Logic -
-![](/Images/Logic.PNG)
+
 
 ## Code Explanation -
 ```
