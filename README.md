@@ -30,6 +30,7 @@ cross-platform application (for Windows, macOS, Linux) that is written in
 functions from C and C++ It is used to write and upload programs to
 Arduino compatible boards, but also, with the help of third-party cores,
 other vendor development boards
+
 * What about the interface? -
 Arduino IDE is easy-to-use coding software, making it simpler for
 beginners to get started with programming. In simple terms, it’s a text
@@ -112,9 +113,8 @@ active learning.
 
 ## Code Explanation -
 ```
-// Author : Yash Pawar
 // Project Name : Fire and Smoke Alarm System
-// Code Starts from here -->
+
 
 // Define the Input and Output pins for the Arduino Uno Board , Gas Sensor ,IR Receiver , HC-05
 Bluetooth Module , Buzzer and LED's
@@ -174,10 +174,6 @@ delay(500);
 noTone(buzzer2);
 }
 ```
-## Simulation -
-* Simulation Link - https://bit.ly/32PxKuF
-* Code Link - https://bit.ly/3qZf8jQ
-* App Link - https://bit.ly/3G0PzFc
 
 ## Steps to Connect HC-05 Module with App -
 1. Turn on the Bluetooth of the mobile.
@@ -229,9 +225,4 @@ Hence, this system is scalable and flexible.
 3. Tinkercad -
 4. Project Hub -
 
-## Members -
-1. Yash Pawar 
-2. Prathamesh Pashte 
-3. Rutunjay Karbhal 
-4. Kedar Keripale 
 
